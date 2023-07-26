@@ -14,11 +14,16 @@ export const theme = {
         red_dark: '#AA2834'
     },
 
-    fontsize: {
+    font_size: {
         small: 14,
         normal: 16,
         medium: 18,
         large: 24,
         xlarge: 28
-    },    
+    },  
+    
+    font_family:{
+        regular: 'Roboto_400Regular',
+        bold: 'Roboto_700Bold'
+    }
 }
