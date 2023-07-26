@@ -8,6 +8,7 @@
 - [React Navigation](https://reactnavigation.org/docs/getting-started/)
 - [Stack Navigator](https://reactnavigation.org/docs/stack-navigator)
 - [SVG Transformer](https://www.npmjs.com/package/react-native-svg-transformer)
+- [Babel Module Resolver](https://github.com/tleunen/babel-plugin-module-resolver)
 
 ## Aplicativo :iphone:
 
