@@ -3,7 +3,7 @@ import React from 'react'
 import { Home } from '@pages/Home'
 import { StyleSheet } from 'react-native'
 import { ThemeProvider } from 'styled-components'
-import {theme} from './src/theme'
+import theme from './src/theme'
 
 export default function App() {
   return (

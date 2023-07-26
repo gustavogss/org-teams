@@ -19,7 +19,7 @@
     "react-native-screens": "~3.20.0",
     "react-native-svg": "13.4.0",
     "react-native-svg-transformer": "^1.1.0",
-    "styled-components": "^6.0.4"
+    "styled-components": "^5.3.5"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
