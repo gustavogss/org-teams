@@ -1,20 +1,22 @@
-import { View } from 'react-native'
 import React from 'react'
-import { StyleSheet } from 'react-native'
 import { Header } from '@components/Header'
+import { StyleSheet} from 'react-native'
+import {Container} from './styles'
 
 export function Home() {
   return (
-    <View style={styles.container}>
-      <Header />
-    </View>
+    <Container> 
+      <Header />  
+    </Container>
   )
 }
+
 const styles = StyleSheet.create({
   container:{
-    flex:1,
+    flex: 1,
     backgroundColor: '#4b4848',
     justifyContent: 'center',
-    alignItems: 'center'
-  } 
+    alignItems: 'center',
+  }
+  
 })
